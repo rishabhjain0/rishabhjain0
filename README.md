@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhjain0&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhjain0" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://meau.in/linktree/connect_with_rishabh](https://meau.in/linktree/connect_with_rishabh)
+- 👨‍💻 All of my projects are available at [https://meau.in/rishabh](https://meau.in/rishabh)
 
 - 📫 How to reach me **jainrishabh@gmail.com**
 
