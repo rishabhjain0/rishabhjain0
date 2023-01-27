@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhjain0&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhjain0" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://meau.in/rishabh](https://meau.in/rishabh)
 
 - 📫 How to reach me **jainrishabh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JpWJkl1TdLj7iGcj1x4kiSemVKv1m3j5/view?usp=sharing](https://drive.google.com/file/d/1JpWJkl1TdLj7iGcj1x4kiSemVKv1m3j5/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1JpWJkl1TdLj7iGcj1x4kiSemVKv1m3j5/view?usp=sharing](https://drive.google.com/file/d/1JpWJkl1TdLj7iGcj1x4kiSemVKv1m3j5/view?usp=sharing](https://drive.google.com/file/d/1lN2Dd0PyXSNqHkbiYOsiJBEJr1q8tAKC/view?usp=share_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
